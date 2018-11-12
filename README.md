@@ -4,7 +4,7 @@ Lian Agency - Minimal Freelance Portfolio
 # LIAN AGENCY
 #### This is a landing page for Lian creative agency
 ## Description
-This is a corporate website about fake agency. Landing includes: presentation of agency and team, list of latest projects, blog, pictures, feedback form, an address with an interactive map and contact information.
+This is a corporate website about fake agency. Landing includes: presentation of agency and team, list of latest projects, blog, pictures, feedback form, address with an interactive map and contact information.
 
 ## Technologies used
 * HTML5
