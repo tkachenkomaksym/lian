@@ -28,7 +28,7 @@ How to run:
     gulp
   
 ## Screenshots
-![Design]()
+ ![Design](https://github.com/tkachenkomaksym/lian/blob/master/design.jpg)
 
 ### LICENSE
 [MIT License](license)
